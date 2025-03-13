@@ -28,5 +28,12 @@ Este juego sigue una serie de pasos fáciles de seguir para que los participante
 # Video Demostrativo
 [Ver Video](https://github.com/user-attachments/assets/Amigo_Secreto.mp4)
 
+#Video 2
+<video width="600" controls>
+  <source src="assets/Amigo_secreto.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+
 
 
