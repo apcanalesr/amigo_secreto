@@ -26,6 +26,7 @@ Este juego sigue una serie de pasos fáciles de seguir para que los participante
 # Capturas de Pantalla
 ![image](https://github.com/user-attachments/assets/4619dc2f-d178-4565-9008-d47c3c16e394)
 # Video Demostrativo
-[Ver Video]([assets/](https://github.com/user-attachments/Amigo_Secreto.mp4)
+[Ver Video](https://github.com/user-attachments/assets/Amigo_Secreto.mp4)
+
 
 
